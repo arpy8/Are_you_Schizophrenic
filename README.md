@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a simple app I made as a fun side project for detecting schizophrenia based on the number of people in an image or video frame. The app uses YOLOv5, a deep learning model for object detection, to count the number of people present. The user can either upload an image or use their camera for real-time detection.
 
+## To access the live web app:
+You can access the live web app using this [link](https://huggingface.co/spaces/arpy8/schizophrenia-detection)
+
 ## To run the app locally:
 1. Clone the repository:
    ```bash
